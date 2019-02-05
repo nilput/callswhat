@@ -6,3 +6,4 @@ int main(){
 	parse_args();
 	process_file();
 }
+
